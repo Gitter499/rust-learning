@@ -10,4 +10,10 @@
 - [x] Strings in Rust
 - [x] Tuples in Rust
 - [x] Arrays in Rust
-- [] Vectors in Rust
+- [x] Vectors in Rust
+- [x] Condtionals in Rust
+- [x] Loops in Rust
+- [x] Functions in Rust
+- [x] Pointers in Rust
+- [x] Structs in Rust
+- [ ] Enums in Rust
