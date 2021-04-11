@@ -7,4 +7,7 @@
 - [x] Printing in Rust
 - [x] Variables in Rust
 - [x] Types in Rust
-- []
+- [x] Strings in Rust
+- [x] Tuples in Rust
+- [x] Arrays in Rust
+- [] Vectors in Rust
