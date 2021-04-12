@@ -16,4 +16,5 @@
 - [x] Functions in Rust
 - [x] Pointers in Rust
 - [x] Structs in Rust
-- [ ] Enums in Rust
+- [x] Enums in Rust
+- [] CLI Application in Rust
