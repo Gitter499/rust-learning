@@ -17,4 +17,6 @@
 - [x] Pointers in Rust
 - [x] Structs in Rust
 - [x] Enums in Rust
-- [] CLI Application in Rust
+- [x] CLI Application in Rust
+
+**Done!**
